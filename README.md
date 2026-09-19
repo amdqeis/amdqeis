@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <!-- ANIMATED HEADER -->
@@ -157,57 +156,3 @@ motto: "Solve. Build. Repeat."
 </samp>
 
 </div>
-```
-
----
-
-## ✅ Perubahan dari versi lama
-
-| Aspek | Sebelum | Sesudah |
-|---|---|---|
-| **Header** | Teks statis biasa | Animated typing SVG (JetBrains Mono, warna ungu) |
-| **About** | Paragraf biasa | Terminal-style `$ whoami` dengan YAML code block |
-| **Tech Stack** | 25+ badge tanpa kategori | ~15 badge, dikategorikan (Languages / ML / Web / Infra) |
-| **GitHub Stats** | 3 widget vertikal | 2 widget side-by-side + 1 compact langs |
-| **Baru: Currently Working On** | ❌ | ✅ Autonomous AI, Digital Forensics, Cryptography |
-| **Baru: Featured Projects** | ❌ | ✅ Placeholder 2-column card layout |
-| **Baru: Achievements** | ❌ | ✅ Placeholder section |
-| **Baru: Contribution Snake** | ❌ | ✅ SVG snake animation (perlu setup GitHub Action) |
-| **Baru: Activity Graph** | ❌ | ✅ Contribution activity graph |
-| **Dihapus** | GitHub Trophies, Top Contributed Repo | — terlalu cluttered |
-| **Theme** | `dark` (generic) | `tokyonight` (konsisten, aesthetic) |
-| **Tagline** | Tidak ada | "Building things that matter · Breaking things that don't" |
-
-## ⚠️ Yang perlu kamu setup
-
-1. **Snake Animation** — perlu GitHub Action di repo `amdqeis/amdqeis`. Buat file `.github/workflows/snake.yml`:
-   ```yaml
-   name: Generate Snake
-   on:
-     schedule:
-       - cron: "0 0 * * *"
-     workflow_dispatch:
-   jobs:
-     build:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: Platane/snk@v3
-           with:
-             github_user_name: amdqeis
-             outputs: |
-               dist/github-snake.svg
-               dist/github-snake-dark.svg?palette=github-dark
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-         - uses: crazy-max/ghaction-github-pages@v4
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-   ```
-   Lalu trigger manual pertama kali di tab Actions.
-
-2. **Featured Projects** — ganti `repo-name` placeholder dengan nama repo asli kamu.
-
-3. **Achievements** — uncomment dan isi dengan achievement kamu nanti.
