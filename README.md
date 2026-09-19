@@ -1,24 +1,213 @@
-# 💫 About Me:
-Hi 👋 I'm Keys<br>An Informatics student currently exploring Machine Learning, Competitive Programming, and Cybersecurity.  <br>I enjoy solving problems, building projects, and continuously improving my skills.
+```markdown
+<div align="center">
 
+<!-- ANIMATED HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Keys;Informatics+Student+%7C+Builder+%7C+Learner" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amdqeis__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/admqeis) 
+<br/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=amdqeis&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=amdqeis&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=amdqeis&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- TAGLINE -->
+<samp>
+Building things that matter · Breaking things that don't
+</samp>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amdqeis&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br/><br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amdqeis&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- SOCIAL BADGES -->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/amdqeis__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/admqeis)
+
+</div>
+
+<!-- ABOUT -->
+## `$ whoami`
+
+```yaml
+name: Keys
+role: Informatics Student
+interests:
+  - Machine Learning & Autonomous AI
+  - Competitive Programming
+  - Cybersecurity (Digital Forensics · Cryptography)
+motto: "Solve. Build. Repeat."
+```
+
+<!-- CURRENTLY -->
+## 🔭 Currently Working On
+
+- 🤖 **Autonomous AI** — exploring agent architectures & decision-making systems
+- 🔍 **Digital Forensics** — investigating artifacts, memory analysis, and incident response
+- 🔐 **Cryptography** — classical & modern crypto, CTF challenges
+
+<!-- FEATURED PROJECTS -->
+## 🚀 Featured Projects
+
+<!-- REPLACE placeholders with your actual repos -->
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Project Name
+<p><em>Brief description of the project and what it does.</em></p>
+<a href="https://github.com/amdqeis/repo-name">
+<img src="https://github-readme-stats.shion.dev/api/pin/?username=amdqeis&repo=repo-name&theme=tokyonight&hide_border=true" />
+</a>
+
+</td>
+<td width="50%">
+
+### ⚡ Project Name
+<p><em>Brief description of the project and what it does.</em></p>
+<a href="https://github.com/amdqeis/repo-name">
+<img src="https://github-readme-stats.shion.dev/api/pin/?username=amdqeis&repo=repo-name&theme=tokyonight&hide_border=true" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<!-- TECH STACK — curated & categorized -->
+## 🛠️ Tech Stack
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+**ML / Data Science**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Web & Frameworks**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Infra & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+<!-- ACHIEVEMENTS -->
+## 🏅 Achievements
+
+<!-- REPLACE with your actual achievements -->
+<!-- Examples: -->
+<!-- - 🥇 **1st Place** — National CP Competition 2025 -->
+<!-- - 📜 **AWS Certified** — Cloud Practitioner -->
+<!-- - 🚩 **Top 10** — XYZ CTF 2025 -->
+
+> _Coming soon — will update with competition results & certifications._
+
+<!-- GITHUB STATS -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=amdqeis&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=amdqeis&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=amdqeis&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+
+</div>
+
+<!-- CONTRIBUTION SNAKE -->
+## 🐍 Contribution Graph
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amdqeis/amdqeis/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amdqeis/amdqeis/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/amdqeis/amdqeis/output/github-snake-dark.svg" />
+</picture>
+</div>
+
+<!-- ACTIVITY GRAPH -->
+## 📈 Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amdqeis&theme=tokyo-night&hide_border=true&area=true)](https://github.com/amdqeis)
+
+</div>
+
+<!-- FOOTER -->
+<div align="center">
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=amdqeis&style=for-the-badge&color=A177FE&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<samp>
+⚡ "The only way to do great work is to love what you do."
+</samp>
+
+</div>
+```
 
 ---
-[![](https://komarev.com/ghpvc/?username=amdqeis&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✅ Perubahan dari versi lama
+
+| Aspek | Sebelum | Sesudah |
+|---|---|---|
+| **Header** | Teks statis biasa | Animated typing SVG (JetBrains Mono, warna ungu) |
+| **About** | Paragraf biasa | Terminal-style `$ whoami` dengan YAML code block |
+| **Tech Stack** | 25+ badge tanpa kategori | ~15 badge, dikategorikan (Languages / ML / Web / Infra) |
+| **GitHub Stats** | 3 widget vertikal | 2 widget side-by-side + 1 compact langs |
+| **Baru: Currently Working On** | ❌ | ✅ Autonomous AI, Digital Forensics, Cryptography |
+| **Baru: Featured Projects** | ❌ | ✅ Placeholder 2-column card layout |
+| **Baru: Achievements** | ❌ | ✅ Placeholder section |
+| **Baru: Contribution Snake** | ❌ | ✅ SVG snake animation (perlu setup GitHub Action) |
+| **Baru: Activity Graph** | ❌ | ✅ Contribution activity graph |
+| **Dihapus** | GitHub Trophies, Top Contributed Repo | — terlalu cluttered |
+| **Theme** | `dark` (generic) | `tokyonight` (konsisten, aesthetic) |
+| **Tagline** | Tidak ada | "Building things that matter · Breaking things that don't" |
+
+## ⚠️ Yang perlu kamu setup
+
+1. **Snake Animation** — perlu GitHub Action di repo `amdqeis/amdqeis`. Buat file `.github/workflows/snake.yml`:
+   ```yaml
+   name: Generate Snake
+   on:
+     schedule:
+       - cron: "0 0 * * *"
+     workflow_dispatch:
+   jobs:
+     build:
+       runs-on: ubuntu-latest
+       steps:
+         - uses: Platane/snk@v3
+           with:
+             github_user_name: amdqeis
+             outputs: |
+               dist/github-snake.svg
+               dist/github-snake-dark.svg?palette=github-dark
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+         - uses: crazy-max/ghaction-github-pages@v4
+           with:
+             target_branch: output
+             build_dir: dist
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+   ```
+   Lalu trigger manual pertama kali di tab Actions.
+
+2. **Featured Projects** — ganti `repo-name` placeholder dengan nama repo asli kamu.
+
+3. **Achievements** — uncomment dan isi dengan achievement kamu nanti.
