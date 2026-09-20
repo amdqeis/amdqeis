@@ -122,15 +122,13 @@ Building things that matter · Breaking things that don't
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 <!-- ACHIEVEMENTS -->
-## 🏅 Achievements
+## 🏅 Achievements & Competitions
 
-<!-- REPLACE with your actual achievements -->
-<!-- Examples: -->
-<!-- - 🥇 **1st Place** — National CP Competition 2025 -->
-<!-- - 📜 **AWS Certified** — Cloud Practitioner -->
-<!-- - 🚩 **Top 10** — XYZ CTF 2025 -->
+- 🚩 **Finalist** — **Mandiri CCP (Competitive Programming) 2024**  
+  *Bank Mandiri* · [Lihat Sertifikat ↗](./assets/certificates/2024-Mandiri-CCP%20Competitive%20Programming-Peserta.png)
 
-> _Coming soon — will update with competition results & certifications._
+- 🏛️ **University Representative (Lolos Seleksi Internal)** — **GEMASTIK 2025 (Divisi Competitive Programming)**  
+  *Puspresnas / Belmawa Kemendikbudristek* · [Lihat Sertifikat ↗](./assets/certificates/2025-Belmawa-GEMASTIK%20Divisi%20Competitive%20Programming-Peserta.png)
 
 <!-- GITHUB STATS -->
 ## 📊 GitHub Stats
