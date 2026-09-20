@@ -58,14 +58,12 @@ Building things that matter · Breaking things that don't
 <!-- FEATURED PROJECTS -->
 ## 🚀 Featured Projects
 
-<!-- REPLACE placeholders with your actual repos -->
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🌾 CropChain Flutter
-<p><em>Cross-platform mobile client for decentralized agricultural supply chain tracking and monitoring.</em></p>
+<p><em>Mobile application for decentralized agricultural supply chain tracking and provenance verification.</em></p>
 <a href="https://github.com/amdqeis/CropChainFlutter">
 <img src="https://github-readme-stats.shion.dev/api/pin/?username=amdqeis&repo=CropChainFlutter&theme=tokyonight&hide_border=true" />
 </a>
@@ -74,7 +72,7 @@ Building things that matter · Breaking things that don't
 <td width="50%" valign="top">
 
 ### 🌐 Digital Twin System `🔒 Private`
-<p><em>Real-time virtual simulation and telemetry monitoring system for cyber-physical assets.</em></p>
+<p><em>Real-time virtual simulation and telemetry monitoring platform for cyber-physical assets.</em></p>
 
 [![Private Repo](https://img.shields.io/badge/Repository-Private-red?style=flat-square&logo=github)](https://github.com/amdqeis)
 [![IoT & Telemetry](https://img.shields.io/badge/Domain-IoT%20%26%20Simulation-blue?style=flat-square)](https://github.com/amdqeis)
@@ -82,9 +80,9 @@ Building things that matter · Breaking things that don't
 
 <br/>
 
-- ⚡ **Telemetry Sync** — Real-time state synchronization via IoT sensor streams
-- 📊 **Asset Simulation** — Digital twin modeling and performance tracking
-- 🔒 **Repository** — Private engineering & research codebase
+- ⚡ **Telemetry Pipeline** — Real-time state synchronization through IoT sensor streams
+- 📊 **Asset Simulation** — Digital twin behavior modeling and metrics tracking
+- 🔒 **Access** — Private research and engineering repository
 
 </td>
 </tr>
@@ -125,10 +123,10 @@ Building things that matter · Breaking things that don't
 ## 🏅 Achievements & Competitions
 
 - 🚩 **Finalist** — **Mandiri CCP (Competitive Programming) 2024**  
-  *Bank Mandiri* · [Lihat Sertifikat ↗](./assets/certificates/2024-Mandiri-CCP%20Competitive%20Programming-Peserta.png)
+  *Bank Mandiri* · [View Certificate ↗](./assets/certificates/2024-Mandiri-CCP%20Competitive%20Programming-Peserta.png)
 
-- 🏛️ **University Representative (Lolos Seleksi Internal)** — **GEMASTIK 2025 (Divisi Competitive Programming)**  
-  *Puspresnas / Belmawa Kemendikbudristek* · [Lihat Sertifikat ↗](./assets/certificates/2025-Belmawa-GEMASTIK%20Divisi%20Competitive%20Programming-Peserta.png)
+- 🏛️ **University Representative** — **GEMASTIK 2025 (Competitive Programming Division)**  
+  *National ICT Student Competition (BPTI / Kemendikbudristek)* · [View Certificate ↗](./assets/certificates/2025-Belmawa-GEMASTIK%20Divisi%20Competitive%20Programming-Peserta.png)
 
 <!-- GITHUB STATS -->
 ## 📊 GitHub Stats
