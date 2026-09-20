@@ -186,7 +186,7 @@ motto: "Solve. Build. Repeat."
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/A177FE/amdqeis" alt="Contribution Chart" />
+<img src="./github/metrics.svg" alt="Metrics" />
 
 </div>
 
