@@ -62,22 +62,29 @@ Building things that matter · Breaking things that don't
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 Project Name
-<p><em>Brief description of the project and what it does.</em></p>
-<a href="https://github.com/amdqeis/repo-name">
-<img src="https://github-readme-stats.shion.dev/api/pin/?username=amdqeis&repo=repo-name&theme=tokyonight&hide_border=true" />
+### 🌾 CropChain Flutter
+<p><em>Cross-platform mobile client for decentralized agricultural supply chain tracking and monitoring.</em></p>
+<a href="https://github.com/amdqeis/CropChainFlutter">
+<img src="https://github-readme-stats.shion.dev/api/pin/?username=amdqeis&repo=CropChainFlutter&theme=tokyonight&hide_border=true" />
 </a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚡ Project Name
-<p><em>Brief description of the project and what it does.</em></p>
-<a href="https://github.com/amdqeis/repo-name">
-<img src="https://github-readme-stats.shion.dev/api/pin/?username=amdqeis&repo=repo-name&theme=tokyonight&hide_border=true" />
-</a>
+### 🌐 Digital Twin System `🔒 Private`
+<p><em>Real-time virtual simulation and telemetry monitoring system for cyber-physical assets.</em></p>
+
+[![Private Repo](https://img.shields.io/badge/Repository-Private-red?style=flat-square&logo=github)](https://github.com/amdqeis)
+[![IoT & Telemetry](https://img.shields.io/badge/Domain-IoT%20%26%20Simulation-blue?style=flat-square)](https://github.com/amdqeis)
+[![Focus](https://img.shields.io/badge/Focus-Cyber--Physical%20Systems-success?style=flat-square)](https://github.com/amdqeis)
+
+<br/>
+
+- ⚡ **Telemetry Sync** — Real-time state synchronization via IoT sensor streams
+- 📊 **Asset Simulation** — Digital twin modeling and performance tracking
+- 🔒 **Repository** — Private engineering & research codebase
 
 </td>
 </tr>
