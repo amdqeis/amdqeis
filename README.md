@@ -31,8 +31,8 @@ Building things that matter · Breaking things that don't
       #%%%%%%-::::::::-=*#%%%%%%%           focus       : Builder | Learner
       %%%%%%*=+++++===+*%#*#*%%%%%
       %%%%%%+*++=+-..:-++===+#%%%%          languages   :
-      %%%%%=::::::::..::::----*%%%            ↳ Python · C++ · TypeScript
-       %%%#-::::::::---::::--==%%#            ↳ Bash · LaTeX
+      %%%%%=::::::::..::::----*%%%            ↳ Go · Rust · Python · C++
+       %%%#-::::::::---::::--==%%#            ↳ TypeScript · Bash · LaTeX
        %#**=--:::::*+===::---=-%%%
        ##+++=---::::::==-=---%%%##          interests   :
         #%%@======++-:--===-=%@%##            ↳ Machine Learning & Autonomous AI
@@ -93,6 +93,8 @@ Building things that matter · Breaking things that don't
 
 **Languages**
 
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -113,7 +115,14 @@ Building things that matter · Breaking things that don't
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Infra & Tools**
+**DevOps & CI/CD**
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E8.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=%23FC6D26)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**Cloud & Databases**
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
