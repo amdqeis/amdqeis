@@ -186,7 +186,7 @@ motto: "Solve. Build. Repeat."
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amdqeis&theme=tokyo-night&hide_border=true&area=true)](https://github.com/amdqeis)
+<img src="https://ghchart.rshah.org/A177FE/amdqeis" alt="Contribution Chart" />
 
 </div>
 
