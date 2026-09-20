@@ -21,38 +21,71 @@ Building things that matter · Breaking things that don't
 <!-- ABOUT -->
 ## `$ whoami`
 
-<div align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="33%" valign="top">
 
-<pre>
-           ##**#####+*###                    amdqeis @ github
-         ###+####+%###+#####                 ──────────────────────────
-        #*#*+=+#%*#%%+*#%#####               OS      : Arch Linux  (btw)
-        *####%%#=::++*#%%%%##%#               Kernel  : rolling release
-       ###%#%%*::::-=++*%#%%#%%%              Shell   : zsh + starship
-       %%%#%%*::::::::-++#%%%#%%%             Editor  : Neovim
-      #%%%%%%-::::::::-=*#%%%%%%%             Terminal: Alacritty
-      %%%%%%*=+++++===+*%#*#*%%%%%            ──────────────────────────
-      %%%%%%+*++=+-..:-++===+#%%%%            Role    : Informatics Student
-      %%%%%=::::::::..::::----*%%%            Location: Indonesia
-       %%%#-::::::::---::::--==%%#            Status  : Undergrad
-       %#**=--:::::*+===::---=-%%%            Focus   : Builder | Learner
-       ##+++=---::::::==-=---%%%##            ──────────────────────────
-        #%%@======++-:--===-=%@%##            Languages:
-        %%%%%+=======++==-==%%%%%#             ↳ Python  C++  TypeScript
-      %%%%%%%%+=====+::=====%%%%%#             ↳ Bash  LaTeX
-        #%%#%%*++++..-=--:=+%%%%%##           ──────────────────────────
-        ###==..*#:......:.::%%%%%%#           Interests:
-       ##*#::...::::....:-===%%#+##            ↳ Machine Learning & AI
-     :-=+=:-.. .::::::::%%++=-%%+-=:           ↳ Competitive Programming
- :.   .....    .:::::::+%%%%%%=--:--:.         ↳ Cybersecurity
-               .::::::-%%%%%#:... .....          ↪ Digital Forensics
-               ::.::--:%%%%*    ...   .          ↪ Cryptography
-             -####+==::.#%#..::...  ..         ──────────────────────────
+```
+           ##**#####+*###
+         ###+####+%###+#####
+        #*#*+=+#%*#%%+*#%#####
+        *####%%#=::++*#%%%%##%#
+       ###%#%%*::::-=++*%#%%#%%%
+       %%%#%%*::::::::-++#%%%#%%%
+      #%%%%%%-::::::::-=*#%%%%%%%
+      %%%%%%*=+++++===+*%#*#*%%%%%
+      %%%%%%+*++=+-..:-++===+#%%%%
+      %%%%%=::::::::..::::----*%%%
+       %%%#-::::::::---::::--==%%#
+       %#**=--:::::*+===::---=-%%%
+       ##+++=---::::::==-=---%%%##
+        #%%@======++-:--===-=%@%##
+        %%%%%+=======++==-==%%%%%#
+      %%%%%%%%+=====+::=====%%%%%#
+        #%%#%%*++++..-=--:=+%%%%%##
+        ###==..*#:......:.::%%%%%%#
+       ##*#::...::::....:-===%%#+##
+     :-=+=:-.. .::::::::%%++=-%%+-=:
+ :.   .....    .:::::::+%%%%%%=--:--:.
+               .::::::-%%%%%#:... .....
+               ::.::--:%%%%*    ...   .
+             -####+==::.#%#..::...  ..
+```
 
-                         Motto: "Solve. Build. Repeat."
-</pre>
+</td>
+<td width="67%" valign="top" align="left">
 
-</div>
+```
+amdqeis @ github
+──────────────────────────────────────────
+OS       : Arch Linux  (btw)
+Kernel   : rolling release
+Shell    : zsh + starship
+Editor   : Neovim
+Terminal : Alacritty
+──────────────────────────────────────────
+Role     : Informatics Student
+Location : Indonesia
+Status   : Undergrad
+Focus    : Builder | Learner
+──────────────────────────────────────────
+Languages:
+  ↳ Python  C++  TypeScript
+  ↳ Bash  LaTeX
+──────────────────────────────────────────
+Interests:
+  ↳ Machine Learning & AI
+  ↳ Competitive Programming
+  ↳ Cybersecurity
+      ↪ Digital Forensics
+      ↪ Cryptography
+──────────────────────────────────────────
+Motto: "Solve. Build. Repeat."
+```
+
+</td>
+</tr>
+</table>
 
 <!-- CURRENTLY -->
 ## 🔭 Currently Working On
