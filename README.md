@@ -122,11 +122,11 @@ Building things that matter · Breaking things that don't
 <!-- ACHIEVEMENTS -->
 ## 🏅 Achievements & Competitions
 
-- 🚩 **Finalist** — **Mandiri CCP (Competitive Programming) 2024**  
-  *Bank Mandiri* · [View Certificate ↗](./assets/certificates/2024-Mandiri-CCP%20Competitive%20Programming-Peserta.png)
+- 🚩 **Finalist** — **Computing Competitive Programming 2024**  
+  *Computing Laboratory, Telkom University* · [View Certificate ↗](./assets/certificates/2024-Mandiri-CCP%20Competitive%20Programming-Peserta.png)
 
 - 🏛️ **University Representative** — **GEMASTIK 2025 (Competitive Programming Division)**  
-  *National ICT Student Competition (BPTI / Kemendikbudristek)* · [View Certificate ↗](./assets/certificates/2025-Belmawa-GEMASTIK%20Divisi%20Competitive%20Programming-Peserta.png)
+  *National ICT Student Competition* · [View Certificate ↗](./assets/certificates/2025-Belmawa-GEMASTIK%20Divisi%20Competitive%20Programming-Peserta.png)
 
 <!-- GITHUB STATS -->
 ## 📊 GitHub Stats
