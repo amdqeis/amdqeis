@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Keys;Informatics+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey%2C+I'm+Keys;Informatics+Student" alt="Typing SVG" />
 
 <br/>
 
 <!-- TAGLINE -->
 <samp>
-Building things that matter · Breaking things that don't
+Ready to collaborate?
 </samp>
 
 <br/><br/>
@@ -32,7 +32,7 @@ Building things that matter · Breaking things that don't
       %%%%%%*=+++++===+*%#*#*%%%%%
       %%%%%%+*++=+-..:-++===+#%%%%          languages   :
       %%%%%=::::::::..::::----*%%%            ↳ Go · Rust · Python · C++
-       %%%#-::::::::---::::--==%%#            ↳ TypeScript · Bash · LaTeX
+       %%%#-::::::::---::::--==%%#            ↳ TypeScript · Bash
        %#**=--:::::*+===::---=-%%%
        ##+++=---::::::==-=---%%%##          interests   :
         #%%@======++-:--===-=%@%##            ↳ Machine Learning & Autonomous AI
@@ -49,47 +49,57 @@ Building things that matter · Breaking things that don't
 </pre>
 
 <!-- CURRENTLY -->
-## 🔭 Currently Working On
+## Currently Working On
 
-- 🤖 **Autonomous AI** — exploring agent architectures & decision-making systems
-- 🔍 **Digital Forensics** — investigating artifacts, memory analysis, and incident response
-- 🔐 **Cryptography** — classical & modern crypto, CTF challenges
+- **Autonomous AI** — exploring agent architectures & decision-making systems
+- **Digital Forensics** — investigating artifacts, memory analysis, and incident response
+- **Cryptography** — classical & modern crypto, CTF challenges
 
 <!-- FEATURED PROJECTS -->
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 CropChain Flutter
-<p><em>Mobile application for decentralized agricultural supply chain tracking and provenance verification.</em></p>
-<a href="https://github.com/amdqeis/CropChainFlutter">
-<img src="https://github-readme-stats.shion.dev/api/pin/?username=amdqeis&repo=CropChainFlutter&theme=tokyonight&hide_border=true" />
-</a>
+### CropChain
+<p><em>Mobile app that digitizes multi-tier agricultural distribution — connecting Farmers, Distributors & Buyers with role-based workflows and integrated payment.</em></p>
+
+[![Public Repo](https://img.shields.io/badge/Repository-Public-brightgreen?style=flat-square&logo=github)](https://github.com/amdqeis/CropChainFlutter)
+[![Flutter](https://img.shields.io/badge/Mobile-Flutter%20%2B%20Dart-02569B?style=flat-square&logo=flutter)](https://github.com/amdqeis/CropChainFlutter)
+[![FastAPI](https://img.shields.io/badge/Backend-FastAPI%20%2B%20PostgreSQL-009688?style=flat-square&logo=fastapi)](https://github.com/amdqeis/CropChainFlutter)
+
+<br/>
+
+- **3-Role System** — Farmer offers harvest → Distributor selects & consolidates → Buyer shops retail/wholesale
+- **Flutter Stack** — Riverpod state management, GoRouter role-based routing, Dio + JWT interceptor
+- **Backend** — FastAPI + PostgreSQL (asyncpg) + Redis queue, SQLAlchemy ORM, Alembic migrations
+- **Payment** — Deterministic fake gateway (default) & Midtrans Snap/Core API sandbox adapter
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Digital Twin System `🔒 Private`
-<p><em>Real-time virtual simulation and telemetry monitoring platform for cyber-physical assets.</em></p>
+### WebWave1D `🔒 Research`
+<p><em>Web-based 1D wave hydrodynamics Digital Twin platform — Variational Boussinesq solver (Rust → WASM) with real-time 3D visualization and AI-assisted paper extraction.</em></p>
 
-[![Private Repo](https://img.shields.io/badge/Repository-Private-red?style=flat-square&logo=github)](https://github.com/amdqeis)
-[![IoT & Telemetry](https://img.shields.io/badge/Domain-IoT%20%26%20Simulation-blue?style=flat-square)](https://github.com/amdqeis)
-[![Focus](https://img.shields.io/badge/Focus-Cyber--Physical%20Systems-success?style=flat-square)](https://github.com/amdqeis)
+[![Private Repo](https://img.shields.io/badge/Repository-Research-red?style=flat-square&logo=github)](https://github.com/amdqeis)
+[![Rust & WASM](https://img.shields.io/badge/Engine-Rust%20%2B%20WebAssembly-orange?style=flat-square&logo=rust)](https://github.com/amdqeis)
+[![Boussinesq](https://img.shields.io/badge/Model-Variational%20Boussinesq%201D-blue?style=flat-square)](https://github.com/amdqeis)
 
 <br/>
 
-- ⚡ **Telemetry Pipeline** — Real-time state synchronization through IoT sensor streams
-- 📊 **Asset Simulation** — Digital twin behavior modeling and metrics tracking
-- 🔒 **Access** — Private research and engineering repository
+- **SVB1D Core** — Rust engine (316 unit tests) compiled to WASM; multi-mode dispersive solver up to $kh \approx 17$
+- **Wave Types** — Monochromatic, JONSWAP irregular spectrum & solitary wave forcing
+- **Frontend** — React + Vite + TypeScript, retro Windows XP Luna UI, 2D Canvas 60 FPS & Three.js 3D flume
+- **AI Backend** — FastAPI + Gemini API; auto-extracts simulation parameters from hydrodynamics PDFs
+- **Live Analysis** — 3 interactive wave gauges, $S(f)$ spectrum, $H_s$ estimation & energy ratio tracking
 
 </td>
 </tr>
 </table>
 
 <!-- TECH STACK — curated & categorized -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -99,7 +109,6 @@ Building things that matter · Breaking things that don't
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 **ML / Data Science**
 
@@ -129,16 +138,16 @@ Building things that matter · Breaking things that don't
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 <!-- ACHIEVEMENTS -->
-## 🏅 Achievements & Competitions
+## Achievements & Competitions
 
-- 🚩 **Finalist** — **Computing Competitive Programming 2024**  
+- **Finalist** — **Computing Competitive Programming 2024**  
   *Computing Laboratory, Telkom University* · [View Certificate ↗](./assets/certificates/2024-Mandiri-CCP%20Competitive%20Programming-Peserta.png)
 
-- 🏛️ **University Representative** — **GEMASTIK 2025 (Competitive Programming Division)**  
+- **University Representative** — **GEMASTIK 2025 (Competitive Programming Division)**  
   *National ICT Student Competition* · [View Certificate ↗](./assets/certificates/2025-Belmawa-GEMASTIK%20Divisi%20Competitive%20Programming-Peserta.png)
 
 <!-- GITHUB STATS -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -152,7 +161,7 @@ Building things that matter · Breaking things that don't
 </div>
 
 <!-- CONTRIBUTION SNAKE -->
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 <picture>
@@ -163,7 +172,7 @@ Building things that matter · Breaking things that don't
 </div>
 
 <!-- ACTIVITY GRAPH -->
-## 📈 Activity
+## Activity
 
 <div align="center">
 
@@ -181,7 +190,7 @@ Building things that matter · Breaking things that don't
 <br/><br/>
 
 <samp>
-⚡ "The only way to do great work is to love what you do."
+"Failing is how you learn. Not trying is how you lose"
 </samp>
 
 </div>
